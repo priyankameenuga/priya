@@ -1,0 +1,11 @@
+1. Add student
+2. view student
+3. search student
+4. update student
+5. quite
+Add student information:
+Enter roll:070
+Enter name:priyanka
+Enter age:21
+Enter mail:priya@123
+Enter phone:1234567888
